@@ -39,3 +39,14 @@ function compare(s1, s2) {
 ```
 
 ## Learning
+
+* Simple regex to find the string is contains all character.
+* My logic to check for the string contains all character and `null` should treat as empty string require one more step, which can be simpler like the upvoted solution.
+
+```javascript
+const regex = /^\D+$/gi;
+regex.test("An"); //true
+regex.test(null); //true
+regex.test(""); //false
+regex.test("123n"); //false
+```
