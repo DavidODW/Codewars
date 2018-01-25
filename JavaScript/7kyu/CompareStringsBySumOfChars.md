@@ -1,6 +1,6 @@
 # Compare Strings by Sum of Chars
 
-## Solution
+## My Solution
 
 ```javascript
 function compare(s1, s2) {

@@ -1,6 +1,6 @@
 # Build a pile of Cubes
 
-## Solution
+## My Solution
 
 ```javascript
 function findNb(m) {

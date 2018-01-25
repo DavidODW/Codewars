@@ -1,6 +1,6 @@
 # Array Helpers
 
-## Solution
+## My Solution
 
 ```javascript
 Array.prototype.square = function() {

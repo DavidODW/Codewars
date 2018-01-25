@@ -1,6 +1,6 @@
 # Rotate for a Max
 
-## Solution
+## My Solution
 
 ```javascript
 function maxRot(n) {
@@ -47,8 +47,8 @@ function maxRot(n) {
 ## Learning
 
 * `Math.max` accepts infinite arguments, convert them to number and return the largest number.
-  > If no arguments are given, the result is `-Infinity`.
-  > If at least one of arguments cannot be converted to a number, the result is `NaN`.
-  >
-  > * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max)
+    > If no arguments are given, the result is `-Infinity`.
+    > If at least one of arguments cannot be converted to a number, the result is `NaN`.
+    >
+    > * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max)
 * `array.push(array.shift())` is inverse of `array.unshift(array.pop())`

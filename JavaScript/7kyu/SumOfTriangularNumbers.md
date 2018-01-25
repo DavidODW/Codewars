@@ -1,6 +1,6 @@
 # Sum of Triangular Numbers
 
-## Solution
+## My Solution
 
 ```javascript
 function sumTriangularNumbers(n) {
