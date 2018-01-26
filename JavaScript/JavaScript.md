@@ -14,3 +14,4 @@
 * [Array Helpers](6kyu/ArrayHelpers.md) - [Codewars](https://www.codewars.com/kata/525d50d2037b7acd6e000534)
 * [Build a pile of Cubes](6kyu/BuildAPileOfCubes.md) - [Codewars](https://www.codewars.com/kata/5592e3bd57b64d00f3000047)
 * [Give me a Diamond](6kyu/ArrayHelpers.md) - [Codewars](https://www.codewars.com/kata/525d50d2037b7acd6e000534)
+* [If you can read this...](6kyu/IfYouCanReadThis.md) - [Codewars](https://www.codewars.com/kata/586538146b56991861000293)
