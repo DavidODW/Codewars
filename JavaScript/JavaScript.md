@@ -4,6 +4,7 @@
 
 * [Compare Strings by Sum of Chars](7kyu/CompareStringsBySumOfChars.md) - [Codewars](https://www.codewars.com/kata/576bb3c4b1abc497ec000065)
 * [Find the stray number](7kyu/FindTheStrayNumber.md) - [Codewars](https://www.codewars.com/kata/57f609022f4d534f05000024)
+* [Folding your way to the moon](7kyu/FoldingYourWayToTheMoon.md) - [Codewars](https://www.codewars.com/kata/58f0ba42e89aa6158400000e)
 * [Make a function that does arithmetic!](7kyu/MakeAFunctionThatDoesArithmetic.md) - [Codewars](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
 * [Recursion #1 - Factorial](7kyu/Factorial.md) - [Codewars](https://www.codewars.com/kata/5694cb0ec554589633000036)
 * [Rotate for a Max](7kyu/RotateForAMax.md) - [Codewars](https://www.codewars.com/kata/56a4872cbb65f3a610000026)
