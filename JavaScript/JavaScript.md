@@ -18,6 +18,7 @@
 
 * [Array Helpers](6kyu/ArrayHelpers.md) - [Codewars](https://www.codewars.com/kata/525d50d2037b7acd6e000534)
 * [Build a pile of Cubes](6kyu/BuildAPileOfCubes.md) - [Codewars](https://www.codewars.com/kata/5592e3bd57b64d00f3000047)
+* [Clock in Mirror](6kyu/ClockInMirror.md) - [Codewars](https://www.codewars.com/kata/56548dad6dae7b8756000037)
 * [Give me a Diamond](6kyu/GiveMeADiamond.md) - [Codewars](https://www.codewars.com/kata/5503013e34137eeeaa001648)
 * [If you can read this...](6kyu/IfYouCanReadThis.md) - [Codewars](https://www.codewars.com/kata/586538146b56991861000293)
 * [Your order, please](6kyu/IfYouCanReadThis.md) - [Codewars](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
