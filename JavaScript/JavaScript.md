@@ -1,5 +1,9 @@
 # JavaScript
 
+## 8 kyu
+
+* [Who is going to pay for the wall?](8kyu/WhoIsGoingToPayForTheWall.md) - [Codewars](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7)
+
 ## 7 kyu
 
 * [Compare Strings by Sum of Chars](7kyu/CompareStringsBySumOfChars.md) - [Codewars](https://www.codewars.com/kata/576bb3c4b1abc497ec000065)
