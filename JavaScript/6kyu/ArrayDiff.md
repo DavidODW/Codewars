@@ -1,4 +1,4 @@
-# Array Helpers
+# Array.diff
 
 ## My Solution
 
