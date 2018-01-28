@@ -2,6 +2,7 @@
 
 ## 8 kyu
 
+* [CatYearsDogYears](8kyu/CatYearsDogYears.md) - [Codewars](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b)
 * [Who is going to pay for the wall?](8kyu/WhoIsGoingToPayForTheWall.md) - [Codewars](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7)
 
 ## 7 kyu
