@@ -14,6 +14,7 @@
 * [Make a function that does arithmetic!](7kyu/MakeAFunctionThatDoesArithmetic.md) - [Codewars](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
 * [Recursion #1 - Factorial](7kyu/Factorial.md) - [Codewars](https://www.codewars.com/kata/5694cb0ec554589633000036)
 * [Rotate for a Max](7kyu/RotateForAMax.md) - [Codewars](https://www.codewars.com/kata/56a4872cbb65f3a610000026)
+* [String matchup](7kyu/StringMatchup.md) - [Codewars](https://www.codewars.com/kata/59ca8e8e1a68b7de740001f4)
 * [Sum of Triangular Numbers](7kyu/SumOfTriangularNumbers.md) - [Codewars](https://www.codewars.com/kata/580878d5d27b84b64c000b51)
 
 ## 6 kyu
