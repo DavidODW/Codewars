@@ -16,6 +16,7 @@
 
 ## 6 kyu
 
+* [Array.diff](6kyu/ArrayDiff.md) - [Codewars](https://www.codewars.com/kata/523f5d21c841566fde000009)
 * [Array Helpers](6kyu/ArrayHelpers.md) - [Codewars](https://www.codewars.com/kata/525d50d2037b7acd6e000534)
 * [Build a pile of Cubes](6kyu/BuildAPileOfCubes.md) - [Codewars](https://www.codewars.com/kata/5592e3bd57b64d00f3000047)
 * [Clock in Mirror](6kyu/ClockInMirror.md) - [Codewars](https://www.codewars.com/kata/56548dad6dae7b8756000037)
