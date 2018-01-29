@@ -28,3 +28,7 @@
 * [If you can read this...](6kyu/IfYouCanReadThis.md) - [Codewars](https://www.codewars.com/kata/586538146b56991861000293)
 * [Sum The Tree](6kyu/SumTheTree.md) - [Codewars](https://www.codewars.com/kata/5800580f8f7ddaea13000025)
 * [Your order, please](6kyu/IfYouCanReadThis.md) - [Codewars](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+
+## 5 kyu
+
+* [Integers: Recreation One](6kyu/IntegersRecreationOne.md) - [Codewars](https://www.codewars.com/kata/55aa075506463dac6600010d)
