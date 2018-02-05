@@ -12,6 +12,7 @@
 * [Clock in Mirror](6kyu/ClockInMirror.md) - [Codewars](https://www.codewars.com/kata/56548dad6dae7b8756000037)
 * [Give me a Diamond](6kyu/GiveMeADiamond.md) - [Codewars](https://www.codewars.com/kata/5503013e34137eeeaa001648)
 * [If you can read this...](6kyu/IfYouCanReadThis.md) - [Codewars](https://www.codewars.com/kata/586538146b56991861000293)
+* [Kebabize](6kyu/Kebabize.md) - [Codewars](https://www.codewars.com/kata/57f8ff867a28db569e000c4a)
 * [Sum The Tree](6kyu/SumTheTree.md) - [Codewars](https://www.codewars.com/kata/5800580f8f7ddaea13000025)
 * [Your order, please](6kyu/IfYouCanReadThis.md) - [Codewars](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 
