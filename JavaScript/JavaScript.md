@@ -26,6 +26,7 @@
 *   [Make a function that does arithmetic!](7kyu/MakeAFunctionThatDoesArithmetic.md) - [Codewars](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
 *   [Numbers in strings](7kyu/NumbersInStrings.md) - [Codewars](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014)
 *   [Recursion #1 - Factorial](7kyu/Factorial.md) - [Codewars](https://www.codewars.com/kata/5694cb0ec554589633000036)
+*   [Reversed Strings](7kyu/ReversedStrings.md) - [Codewars](https://www.codewars.com/kata/reversed-strings)
 *   [Rotate for a Max](7kyu/RotateForAMax.md) - [Codewars](https://www.codewars.com/kata/56a4872cbb65f3a610000026)
 *   [Simple string reversal](7kyu/SimpleStringReversal.md) - [Codewars](https://www.codewars.com/kata/5a71939d373c2e634200008e)
 *   [String matchup](7kyu/StringMatchup.md) - [Codewars](https://www.codewars.com/kata/59ca8e8e1a68b7de740001f4)
