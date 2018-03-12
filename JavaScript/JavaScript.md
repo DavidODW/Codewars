@@ -23,6 +23,7 @@
 *   [Find the stray number](7kyu/FindTheStrayNumber.md) - [Codewars](https://www.codewars.com/kata/57f609022f4d534f05000024)
 *   [Folding your way to the moon](7kyu/FoldingYourWayToTheMoon.md) - [Codewars](https://www.codewars.com/kata/58f0ba42e89aa6158400000e)
 *   [Looking for a benefactor](7kyu/LookingForABenefactor.md) - [Codewars](https://www.codewars.com/kata/569b5cec755dd3534d00000f)
+*   [Love vs friendship](7kyu/LoveVsFriendship.md) - [Codewars](https://www.codewars.com/kata/59706036f6e5d1e22d000016)
 *   [Make a function that does arithmetic!](7kyu/MakeAFunctionThatDoesArithmetic.md) - [Codewars](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
 *   [Numbers in strings](7kyu/NumbersInStrings.md) - [Codewars](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014)
 *   [Recursion #1 - Factorial](7kyu/Factorial.md) - [Codewars](https://www.codewars.com/kata/5694cb0ec554589633000036)
