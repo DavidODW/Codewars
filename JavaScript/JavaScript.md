@@ -38,5 +38,6 @@
 *   [Do I get a bonus?](8kyu/DoIGetABonus.md) - [Codewars](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
 *   [Kata Example Twist](8kyu/KataExampleTwist.md) - [Codewars](https://www.codewars.com/kata/525c1a07bb6dda6944000031)
 *   [Man in the west](8kyu/ManInTheWest.md) - [Codewars](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b)
+*   [Opposite number](8kyu/OppositeNumber.md) - [Codewars](https://www.codewars.com/kata/56dec885c54a926dcd001095)
 *   [Reversed sequence](8kyu/ReversedSequence.md) - [Codewars](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
 *   [Who is going to pay for the wall?](8kyu/WhoIsGoingToPayForTheWall.md) - [Codewars](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7)
