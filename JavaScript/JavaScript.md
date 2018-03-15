@@ -2,8 +2,9 @@
 
 ## 5 kyu
 
-*   [Integers: Recreation One](6kyu/IntegersRecreationOne.md) - [Codewars](https://www.codewars.com/kata/55aa075506463dac6600010d)
-*   [Number of trailing zeros of N!](6kyu/NumberOfTrailingZerosOfN!.md) - [Codewars](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34)
+*   [Integers: Recreation One](5kyu/IntegersRecreationOne.md) - [Codewars](https://www.codewars.com/kata/55aa075506463dac6600010d)
+*   [Number of trailing zeros of N!](5kyu/NumberOfTrailingZerosOfN!.md) - [Codewars](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34)
+*   [Simple assembler interpreter](5kyu/SimpleAssemblerInterpreter.md) - [Codewars](https://www.codewars.com/kata/58e24788e24ddee28e000053)
 
 ## 6 kyu
 

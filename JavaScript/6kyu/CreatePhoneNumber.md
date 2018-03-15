@@ -20,4 +20,4 @@ function createPhoneNumber(numbers) {
 
 ## Learning
 
-*   `Math.pow(n, 3)` is same as `n ** 3`
+*   Use regex to extract string in certain format, and indicate the correspending matching as `$1`-`$9`.
