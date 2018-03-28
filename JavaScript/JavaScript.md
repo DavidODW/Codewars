@@ -38,6 +38,7 @@
 ## 8 kyu
 
 *   [Cat years, Dog years](8kyu/CatYearsDogYears.md) - [Codewars](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b)
+*   [Correct the mistakes of the character recognition software](8kyu/CorrectTheMistakesOfTheCharacterRecognitionSoftware.md) - [Codewars](https://www.codewars.com/kata/577bd026df78c19bca0002c0)
 *   [Do I get a bonus?](8kyu/DoIGetABonus.md) - [Codewars](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
 *   [Kata Example Twist](8kyu/KataExampleTwist.md) - [Codewars](https://www.codewars.com/kata/525c1a07bb6dda6944000031)
 *   [Man in the west](8kyu/ManInTheWest.md) - [Codewars](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b)
