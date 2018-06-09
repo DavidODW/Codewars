@@ -1,4 +1,4 @@
-# Make a function that does arithmetic!
+# Next Prime
 
 ## My Solution
 
